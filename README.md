@@ -6,3 +6,5 @@ This is the repository for Homework 3 of the Algorithmic Methods of Data Mining 
 
 Content:
 - main.ipynb: the Jupyter Notebook that contains the script of all the exercises done (both practical and theoretical questions)
+
+Link to the Jupyter Notebook Viewer: https://nbviewer.org/github/GiorgiaFontana/ADM-HW3/blob/main/main.ipynb
