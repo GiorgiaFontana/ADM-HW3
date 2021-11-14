@@ -5,4 +5,4 @@ This is the repository for Homework 3 of the Algorithmic Methods of Data Mining 
 - Alex Onofri
 
 Content:
-- main.ipynb $\rightarrow$ the jupyter notebook that contains the script of all the exercises done (both practical and theoretical questions)
+- main.ipynb \rightarrow the jupyter notebook that contains the script of all the exercises done (both practical and theoretical questions)
